@@ -1,0 +1,25 @@
+.box {
+    box-sizing: border-box;
+    width: 300px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 20px;
+    min-height: 400px;
+    position: relative;
+  }
+  .red {
+    background-color: red;
+  }
+  .green {
+    background-color: green;
+    border: 5px solid yellow;
+  }
+  .modal {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    left: 30px;
+    top: 50px;
+  }
